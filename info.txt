@@ -1,0 +1,19 @@
+Redmi Note 7 pro Nebula Red
+https://www.flipkart.com/redmi-note-7-pro-nebula-red-64-gb/p/itmferghuf9ky6ru
+
+Redmi Note 7 pro space Black
+https://www.flipkart.com/redmi-note-7-pro-space-black-64-gb/p/itmfegkx2gufuzhp
+/html/body/div[1]/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/button
+
+Redmi Note 7 pro Neptune Blue
+https://www.flipkart.com/redmi-note-7-pro-neptune-blue-64-gb/p/itmfegkx8nbcze6t
+/html/body/div[1]/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/button
+
+XPath of "Notify Me" button
+/html/body/div[1]/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/button
+
+XPath of "Buy Now" button
+/html/body/div[1]/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/ul/li[2]/form/button
+
+XPath of "Add to Cart" button
+/html/body/div[1]/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/ul/li[1]/button
